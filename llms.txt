@@ -1,2 +1,25 @@
 # Tecumseh Plumbing Pros
-HVAC services in Ontario.
+
+> Tecumseh Plumbing Pros is a local HVAC company serving Tecumseh, Essex, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 457-1225  |  Email: contact@tecumsehplumbingpros.ca  |  Website: https://tecumsehplumbingpros.ca
+
+## Key pages
+
+- [Home](https://tecumsehplumbingpros.ca/): Tecumseh Plumbing Pros homepage with service overview and FAQ
+- [About](https://tecumsehplumbingpros.ca/about/): About the company and service area
+- [Contact](https://tecumsehplumbingpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://tecumsehplumbingpros.ca/services/water-heaters/): Water Heaters in Tecumseh, Ontario
+- [Drain Cleaning](https://tecumsehplumbingpros.ca/services/drain-cleaning/): Drain Cleaning in Tecumseh, Ontario
+- [Repiping](https://tecumsehplumbingpros.ca/services/repiping/): Repiping in Tecumseh, Ontario
+- [Fixtures & Toilets](https://tecumsehplumbingpros.ca/services/fixtures-toilets/): Fixtures & Toilets in Tecumseh, Ontario
+- [Leak Detection & Repair](https://tecumsehplumbingpros.ca/services/leak-detection/): Leak Detection & Repair in Tecumseh, Ontario
+- [Sump Pumps & Backwater](https://tecumsehplumbingpros.ca/services/sump-pumps/): Sump Pumps & Backwater in Tecumseh, Ontario
+- [Water Softeners & Filtration](https://tecumsehplumbingpros.ca/services/water-softeners/): Water Softeners & Filtration in Tecumseh, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Tecumseh are answered on the homepage.
